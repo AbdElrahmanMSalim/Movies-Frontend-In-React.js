@@ -1,13 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This project is deployed on the cloud (Heroku) with my backend implementation here:
+# This project is deployed on the cloud (Heroku) with my backend implementation here:
 Frontend and backend:
 https://protected-mountain-91397.herokuapp.com/
 
 Backend:
-# code: 
+## code: 
 https://github.com/AbdElrahmanMSalim/Movies-RESTful-API-in-Node.js
-# API deployment:
+## API deployment:
 https://frozen-stream-25875.herokuapp.com/
 
 
