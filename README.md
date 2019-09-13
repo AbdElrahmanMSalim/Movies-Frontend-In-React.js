@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# This project is deployed on the cloud (Heroku) with my backend implementation here:
+# This project is deployed on the cloud (Heroku) with my backend implementation:
 ## Frontend and backend:
 https://protected-mountain-91397.herokuapp.com/
 
